@@ -3,7 +3,7 @@
 Meu nome é Rosane Berté
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Trabalho no NRE de Foz do Iguaçu como Embaixadora do Programa Edutech
+- Trabalho no NRE de Foz do Iguaçu como **Embaixadora do Programa Edutech**
 - Sou formada em Pedagoia e Letras/Português. Tenho mestrado em Educação
 
 ### Você pode entrar em contato comigo 📫
