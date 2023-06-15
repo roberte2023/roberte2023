@@ -8,7 +8,7 @@ Meu nome é Rosane Berté
 
 ### Você pode entrar em contato comigo 📫
 
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) rosaneberte@gmail.com
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (rosaneberte@gmail.com)
 
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/projetooalecrim?igshid=NGExMmI2YTkyZg==)
 
