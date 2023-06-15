@@ -8,9 +8,9 @@ Meu nome é Rosane Berté
 
 ### Você pode entrar em contato comigo 📫
 
-rosane.berte@escola.pr.gov.br
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) rosaneberte@gmail.com
 
-@rosaneberte7
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/projetooalecrim?igshid=NGExMmI2YTkyZg==)
 
 ![](https://media.tenor.com/5mSMAfK0ZiAAAAAd/scaler-create-impact.gif)
 
