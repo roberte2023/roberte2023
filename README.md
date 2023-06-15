@@ -1,16 +1,15 @@
-### Hi there 👋
+###   BOAS  VINDAS AO MEU PERFIL 🌻
 
-<!--
-**roberte2023/roberte2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rosane Berté
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Trabalho no NRE de Foz do Iguaçu como Embaixadora do Programa Edutech;
+- Sou formada em Pedagogia e Letras - Português. Tenho mestrado em Educação;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+rosane.berte@escola.pr.gov.br
+
+@rosaneberte7
+
+![](https://tenor.com/pt-BR/view/scaler-create-impact-laptop-coding-programming-gif-25012060)
