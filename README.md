@@ -1,10 +1,10 @@
-###   BOAS  VINDAS AO MEU PERFIL 🌻
+###   SEJAM MUITO BEM VINDOS(AS) AO MEU PERFIL 🌻
 
 Meu nome é Rosane Berté
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Trabalho no NRE de Foz do Iguaçu como **Embaixadora do Programa Edutech**
-- Sou formada em Pedagoia e Letras/Português. Tenho mestrado em Educação
+- Estudo na [Alura](https://www.alura.com.br)
+- Trabalho no [NRE de Foz do Iguaçu](http://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=47) como **Embaixadora do Programa Edutech**
+- Sou graduada em _Pedagogia_ e _Letras/Português_. Especialista em _Gestão Político-Pedagógica Escolar_. Mestre em _Educação_
 
 ### Você pode entrar em contato comigo 📫
 
