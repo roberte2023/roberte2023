@@ -12,4 +12,5 @@ rosane.berte@escola.pr.gov.br
 
 @rosaneberte7
 
-![](https://tenor.com/pt-BR/view/scaler-create-impact-laptop-coding-programming-gif-25012060)
+![](https://media.tenor.com/5mSMAfK0ZiAAAAAd/scaler-create-impact.gif)
+
